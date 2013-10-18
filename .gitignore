@@ -10,6 +10,7 @@ b__test_runner.ads
 test_runner
 
 /build
+*.run
 /tests
 /build_logs
 /xml_results/*.xml
